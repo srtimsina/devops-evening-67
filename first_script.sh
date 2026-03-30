@@ -7,3 +7,5 @@ sudo systemctl status apache2
 
 
 echo "Hello DevOps" > /var/www/html/index.html
+
+echo "Some random change"
