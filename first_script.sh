@@ -16,3 +16,5 @@ df -h
 free -m
 
 useradd -d -m /home/user1 user1
+
+date
