@@ -9,3 +9,8 @@ sudo systemctl status apache2
 echo "Hello DevOps" > /var/www/html/index.html
 
 echo "Some random change"
+
+useradd -m -d /home/suryaraj suryaraj
+
+touch index.html
+echo "Merge conflict practice" >> index.html
