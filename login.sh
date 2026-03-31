@@ -2,3 +2,4 @@
 
 echo "Some changes for login screen"
 # adding new feature-2
+# changes for disabling ff merge
